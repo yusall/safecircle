@@ -136,7 +136,7 @@ function Notifications() {
             onClick={handleSave}
             className="mt-6 w-full bg-black text-white py-3 rounded-lg font-semibold hover:bg-gray-800 transition"
           >
-            ✅ Save Preferences
+            Save Preferences
           </button>
         </div>
       </div>

@@ -33,7 +33,7 @@ function Login() {
     }
   };
 
-  // ✅ Function to handle password reset
+  // Function to handle password reset
   const handlePasswordReset = async () => {
     if (!email) {
       setError("Please enter your email first.");
